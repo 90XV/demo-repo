@@ -18,3 +18,5 @@ git push origin master/main depending on the name of the repo eg: demo-repo (mai
 
 remember to change directory (cd) when working in multiple folders to make sure that the commits are correct
 cd ../name of repo/
+
+git init - to initialise the repo when creating a new repo !! bt first make an empty one on GitHub website
