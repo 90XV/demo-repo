@@ -10,6 +10,7 @@ I've added another line!
 This is a text testing line.
 
 remember these few things ok 
+
 git status - to check whether there are new files
 git add . - to recognize all new files added
 git commit -m "title" -m "Desc" - to commit these changes to the repo and add a title and desc to the commit
